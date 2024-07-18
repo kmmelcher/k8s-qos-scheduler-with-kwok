@@ -1,0 +1,14 @@
+0,10,10,any,0,11,7200,-1,1.7,1.7,prod,1,deployment,4,0,average,30010,
+1,17,17,any,0,7,7200,-1,1.7,1.7,batch,0.9,deployment,4,0,average,30017,
+2,11,11,any,0,7,7200,-1,1.7,1.7,batch,0.9,deployment,4,0,average,30011,
+3,8,8,any,0,11,7200,-1,1.7,1.7,prod,1,deployment,4,0,average,30008,
+4,13,13,any,0,7,7200,-1,1.7,1.7,batch,0.9,deployment,4,0,average,30013,
+5,6,6,any,0,11,7200,-1,1.7,1.7,prod,1,deployment,4,0,average,30006,
+6,3,3,any,0,11,7200,-1,1.7,1.7,prod,1,deployment,4,0,average,30003,
+7,18,18,any,0,7,7200,-1,1.7,1.7,batch,0.9,deployment,4,0,average,30018,
+1800,22,22,any,0,1,7200,-1,1.7,1.7,free,0.5,job,4,25,aggregate,30022,120
+1802,75,75,any,0,1,7200,-1,1.7,1.7,free,0.5,job,4,25,aggregate,30075,120
+1803,26,26,any,0,1,7200,-1,1.7,1.7,free,0.5,job,4,25,aggregate,30026,120
+1804,28,28,any,0,1,7200,-1,1.7,1.7,free,0.5,job,4,25,aggregate,30028,120
+1805,30,30,any,0,1,7200,-1,1.7,1.7,free,0.5,job,4,25,aggregate,30030,120
+1806,45,45,any,0,1,7200,-1,1.7,1.7,free,0.5,job,4,25,aggregate,30045,120

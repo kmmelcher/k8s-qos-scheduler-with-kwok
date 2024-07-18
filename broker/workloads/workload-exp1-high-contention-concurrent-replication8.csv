@@ -1,0 +1,12 @@
+1,17,17,any,0,11,7200,-1,0.85,0.85,prod,1,deployment,8,0,concurrent,30017
+2,22,22,any,0,7,7200,-1,0.85,0.85,batch,0.95,deployment,8,0,concurrent,30022
+3,29,29,any,0,7,7200,-1,0.85,0.85,batch,0.95,deployment,8,0,concurrent,30029
+4,47,47,any,0,1,7200,-1,0.85,0.85,free,0.9,deployment,9,0,concurrent,30047
+5,16,16,any,0,7,7200,-1,0.85,0.85,batch,0.95,deployment,8,0,concurrent,30016
+6,11,11,any,0,11,7200,-1,0.85,0.85,prod,1,deployment,8,0,concurrent,30011
+7,13,13,any,0,1,7200,-1,0.85,0.85,free,0.9,deployment,9,0,concurrent,30013
+8,10,10,any,0,11,7200,-1,0.85,0.85,prod,1,deployment,8,0,concurrent,30010
+9,43,43,any,0,1,7200,-1,0.85,0.85,free,0.9,deployment,9,0,concurrent,30043
+10,44,44,any,0,1,7200,-1,0.85,0.85,free,0.9,deployment,9,0,concurrent,30044
+11,60,60,any,0,11,7200,-1,0.85,0.85,prod,1,deployment,8,0,concurrent,30060
+12,30,30,any,0,7,7200,-1,0.85,0.85,batch,0.95,deployment,8,0,concurrent,30030
